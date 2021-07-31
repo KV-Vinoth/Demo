@@ -1,0 +1,7 @@
+ # python intro 
+ # setup ide
+ # python file saving
+ # data type & variable
+ # reserved keywords
+ # collection --> list , tuple , set , dict 
+ # Exception Handling --> try , except , finally 
